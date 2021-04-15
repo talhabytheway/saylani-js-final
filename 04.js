@@ -3,7 +3,6 @@
 let strr = `HjhUjjkH JHJkjjY32                    /sad/dsf \ vadfsow084567890p.][p]{}[][}{][{{}{}{]{}[}{][}{}{}{][}{}{}{}{;''lkjhrtyuiop';lkjhg'"'"'""""""~%^&*()*&^%$#$%^&*()*&^%$%^&*)(*&^%$#$%^&*()(*&^%$%^&*(Iuytfghjkl;?>LO:L"{}P{}|}{POIUYT|\ ?<>HGFGHUIOfdxcfghJKasafadasd4 UG         YU687686hjKJyu   JlkjY Glih.lkjKUGkugl kjKK23 UjyglljKUGKUG LIHLIJLJ.kugFF`;
 
 let newArr = strr.split('');
-console.log(newArr);
 
 let alp = /[a-zA-Z]/;
 let num = /[0-9]/;
