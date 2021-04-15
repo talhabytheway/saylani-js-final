@@ -7,7 +7,7 @@ let Volume = class {
   }
 
   calcVol() {
-    return (Math.PI * this.radius * 2 * this.height).toFixed(4);
+    return (Math.PI * (this.radius * this.radius) * this.height).toFixed(4);
   }
 };
 
